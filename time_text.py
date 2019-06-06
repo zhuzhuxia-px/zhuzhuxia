@@ -31,3 +31,5 @@ tkey=timeit('funckey()','from __main__ import funckey',number=1)
 # # timeit(函数名_字符串，运行环境_字符串，number=运行次数)
 # t = timeit('func()', 'from __main__ import func', number=1000)
 print(twin,ttk,tkey)
+
+#sadaskdkasl

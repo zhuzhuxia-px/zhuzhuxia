@@ -7,3 +7,5 @@ This is the log for studying the pywin32 code
 
 学习pywin32的记录
 ~~（看一眼英文手册爽一时，一直看一直爽）~~
+
+hhhhhh
